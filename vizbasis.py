@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+Copyright 2026 Jaafar Mehrez
+Email: jaafarmehrez@sjtu.edu.cn, jaafar@hpqc.org
+
 Tolerant .gbs parser + radial overlay plots + numeric overlaps.
 Usage:
     python vizbasis.py basisA.gbs basisB.gbs --element 
